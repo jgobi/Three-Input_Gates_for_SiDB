@@ -4,13 +4,13 @@
     <program>
         <file_purpose>save</file_purpose>
         <version>0.3.3</version>
-        <date>2021-06-04 00:28:42</date>
+        <date>2022-03-15 19:14:16</date>
     </program>
     <!--GUI Flags-->
     <gui>
-        <zoom>0.0312749</zoom>
-        <displayed_region x1="-108.713" y1="-120.224" x2="104.557" y2="20.4637"/>
-        <scroll x="-367" y="-331"/>
+        <zoom>0.0216984</zoom>
+        <displayed_region x1="-229.971" y1="-139.641" x2="249.788" y2="55.3036"/>
+        <scroll x="-292" y="0"/>
     </gui>
     <!--Layer Properties-->
     <!--Layer ID is intrinsic to the layer order-->
@@ -69,6 +69,36 @@
         <layer type="DB">
             <dbdot>
                 <layer_id>2</layer_id>
+                <latcoord n="-5" m="4" l="0"/>
+                <physloc x="-19.2" y="30.72"/>
+                <color>#ffffff00</color>
+            </dbdot>
+            <dbdot>
+                <layer_id>2</layer_id>
+                <latcoord n="-23" m="-9" l="1"/>
+                <physloc x="-88.32" y="-66.87"/>
+                <color>#ffffff01</color>
+            </dbdot>
+            <dbdot>
+                <layer_id>2</layer_id>
+                <latcoord n="-2" m="-14" l="0"/>
+                <physloc x="-7.68" y="-107.52"/>
+                <color>#ffffff02</color>
+            </dbdot>
+            <dbdot>
+                <layer_id>2</layer_id>
+                <latcoord n="12" m="-7" l="0"/>
+                <physloc x="46.08" y="-53.76"/>
+                <color>#ffff0000</color>
+            </dbdot>
+            <dbdot>
+                <layer_id>2</layer_id>
+                <latcoord n="14" m="-7" l="0"/>
+                <physloc x="53.76" y="-53.76"/>
+                <color>#ffff0000</color>
+            </dbdot>
+            <dbdot>
+                <layer_id>2</layer_id>
                 <latcoord n="-9" m="-9" l="1"/>
                 <physloc x="-34.56" y="-66.87"/>
                 <color>#ffc8c8c8</color>
@@ -111,18 +141,6 @@
             </dbdot>
             <dbdot>
                 <layer_id>2</layer_id>
-                <latcoord n="12" m="-7" l="0"/>
-                <physloc x="46.08" y="-53.76"/>
-                <color>#ffc8c8c8</color>
-            </dbdot>
-            <dbdot>
-                <layer_id>2</layer_id>
-                <latcoord n="14" m="-7" l="0"/>
-                <physloc x="53.76" y="-53.76"/>
-                <color>#ffc8c8c8</color>
-            </dbdot>
-            <dbdot>
-                <layer_id>2</layer_id>
                 <latcoord n="19" m="-7" l="0"/>
                 <physloc x="72.96" y="-53.76"/>
                 <color>#ffc8c8c8</color>
@@ -153,26 +171,8 @@
             </dbdot>
             <dbdot>
                 <layer_id>2</layer_id>
-                <latcoord n="-23" m="-9" l="1"/>
-                <physloc x="-88.32" y="-66.87"/>
-                <color>#ffc8c8c8</color>
-            </dbdot>
-            <dbdot>
-                <layer_id>2</layer_id>
                 <latcoord n="-4" m="-13" l="0"/>
                 <physloc x="-15.36" y="-99.84"/>
-                <color>#ffc8c8c8</color>
-            </dbdot>
-            <dbdot>
-                <layer_id>2</layer_id>
-                <latcoord n="-5" m="4" l="0"/>
-                <physloc x="-19.2" y="30.72"/>
-                <color>#ffc8c8c8</color>
-            </dbdot>
-            <dbdot>
-                <layer_id>2</layer_id>
-                <latcoord n="-2" m="-14" l="0"/>
-                <physloc x="-7.68" y="-107.52"/>
                 <color>#ffc8c8c8</color>
             </dbdot>
         </layer>
